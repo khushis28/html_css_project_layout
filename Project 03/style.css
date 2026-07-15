@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #7adfff;
+}
+.container{
+    max-width: 1200px;
+    min-height: 800px;
+    margin: 52px auto;
+    padding: 0 16px;
+    background-color: red;
+}
+
+
+
+@media screen and (width > 1200px) {
+
+}
+
+@media screen and (width < 1200px) and (width>450px) {
+
+}
+
+@media screen and (width<450px) {
+
+}
